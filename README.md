@@ -4,8 +4,9 @@ This repository contains 15 practical lab assignments covering fundamental and a
 
 # 👨‍💻 Author
 
-# Debasish Ghosh
-# B.Tech CSE(AI_ML) (2023–2027)
-# Sister Nivedita University
+ Debasish Ghosh
+ B.Tech CSE(AI_ML) (2023–2027)
+ Sister Nivedita University
+
 
 
